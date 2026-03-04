@@ -1,0 +1,14 @@
+2026/02/28-23:22:05.286 b178 Reusing MANIFEST C:\Users\zayn4\Documents\Unreal Projects\FYP-COPY\18-01-25 - FYP\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/28-23:22:05.303 b178 Recovering log #50
+2026/02/28-23:22:05.303 b178 Level-0 table #52: started
+2026/02/28-23:22:05.346 b178 Level-0 table #52: 70008 bytes OK
+2026/02/28-23:22:05.360 b178 Delete type=0 #50
+2026/02/28-23:22:05.361 b984 Compacting 4@0 + 1@1 files
+2026/02/28-23:22:05.386 b984 Generated table #54@0: 10 keys, 18752 bytes
+2026/02/28-23:22:05.386 b984 Compacted 4@0 + 1@1 files => 18752 bytes
+2026/02/28-23:22:05.386 b984 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/28-23:22:05.389 b984 Delete type=2 #41
+2026/02/28-23:22:05.389 b984 Delete type=2 #43
+2026/02/28-23:22:05.389 b984 Delete type=2 #46
+2026/02/28-23:22:05.389 b984 Delete type=2 #49
+2026/02/28-23:22:05.389 b984 Delete type=2 #52
