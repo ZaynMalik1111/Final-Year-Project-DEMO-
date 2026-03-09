@@ -1,0 +1,12 @@
+[20212:25040:0309/054249.183:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20212:5980:0309/054249.453:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20212:25040:0309/054249.571:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7936:7928:0309/054255.831:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-60D3141E9F56604C6F91B7A9E33CCC2D will be ignored
+[6100:26708:0309/054257.840:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6100:26708:0309/054258.501:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6100:26708:0309/054311.830:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6100:26708:0309/054323.502:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20212:25040:0309/054335.505:ERROR:device_event_log_impl.cc(196)] [05:43:35.488] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20212:25040:0309/054444.853:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20212:25040:0309/054459.853:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20212:25040:0309/060742.341:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
