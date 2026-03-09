@@ -1,0 +1,27 @@
+[8320:24308:0308/190317.452:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8320:11972:0308/190317.698:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8320:24308:0308/190317.823:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36224:23220:0308/190326.461:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59AF7D5E10D5BA5619A03317B01F0304 will be ignored
+[35456:22748:0308/190330.817:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/190331.526:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/190342.489:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[35456:22748:0308/190355.130:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/194503.454:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/194504.074:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/194513.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[35456:22748:0308/194524.855:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[35456:22748:0308/210703.033:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/210703.193:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/210715.629:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/210724.235:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8320:24308:0308/221835.620:ERROR:device_event_log_impl.cc(196)] [22:18:35.484] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8320:24308:0308/232051.401:ERROR:device_event_log_impl.cc(196)] [23:20:51.338] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[35456:27548:0308/234303.613:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8320:12844:0308/234303.616:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[35456:22748:0308/234315.859:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35456:22748:0308/234316.512:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8320:24308:0308/234320.114:ERROR:device_event_log_impl.cc(196)] [23:43:19.796] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[35456:22748:0308/234324.946:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8320:24308:0308/234328.399:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35456:22748:0308/234334.827:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8320:24308:0308/234933.424:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
