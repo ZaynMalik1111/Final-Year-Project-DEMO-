@@ -1,3 +1,5 @@
-2026/03/11-01:22:24.197 a308 Reusing MANIFEST C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/11-01:22:24.204 a308 Recovering log #15
-2026/03/11-01:22:24.208 a308 Reusing old log C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/000015.log 
+2026/03/11-12:47:38.445 3918 Reusing MANIFEST C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/11-12:47:38.451 3918 Recovering log #18
+2026/03/11-12:47:38.452 3918 Level-0 table #20: started
+2026/03/11-12:47:38.461 3918 Level-0 table #20: 65373 bytes OK
+2026/03/11-12:47:38.470 3918 Delete type=0 #18

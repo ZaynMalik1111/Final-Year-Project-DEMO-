@@ -1,0 +1,10 @@
+[27752:37632:0311/124738.095:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27752:31628:0311/124738.249:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27752:37632:0311/124738.267:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27752:37632:0311/124743.355:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[37280:13320:0311/124745.374:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E256441007CE65D131671E74A1DAEFC2 will be ignored
+[43636:44608:0311/124746.721:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[43636:44608:0311/124747.410:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[43636:44608:0311/124800.830:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[43636:44608:0311/124814.662:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[27752:37632:0311/133624.500:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
