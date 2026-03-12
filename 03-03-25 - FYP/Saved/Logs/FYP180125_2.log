@@ -3770,3 +3770,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.11-15.23.42:762][119]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.03.11-15.23.42:802][119]LogPakFile: Destroying PakPlatformFile
 [2026.03.11-15.23.44:054][119]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.11-15.23.44:308][119]LogExit: Exiting.
+[2026.03.11-15.23.44:399][119]Log file closed, 03/11/26 15:23:44
