@@ -1,3 +1,14 @@
-2026/03/11-17:21:14.125 8270 Reusing MANIFEST C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/11-17:21:14.142 8270 Recovering log #21
-2026/03/11-17:21:14.159 8270 Reusing old log C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/000021.log 
+2026/03/12-05:11:19.339 b8fc Reusing MANIFEST C:\Users\zayn4\Documents\GitHub\Final-Year-Project-DEMO-\03-03-25 - FYP\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/12-05:11:19.349 b8fc Recovering log #21
+2026/03/12-05:11:19.350 b8fc Level-0 table #23: started
+2026/03/12-05:11:19.363 b8fc Level-0 table #23: 70278 bytes OK
+2026/03/12-05:11:19.378 b8fc Delete type=0 #21
+2026/03/12-05:11:19.380 8328 Compacting 4@0 + 1@1 files
+2026/03/12-05:11:19.399 8328 Generated table #25@0: 7 keys, 12516 bytes
+2026/03/12-05:11:19.399 8328 Compacted 4@0 + 1@1 files => 12516 bytes
+2026/03/12-05:11:19.400 8328 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/12-05:11:19.403 8328 Delete type=2 #13
+2026/03/12-05:11:19.403 8328 Delete type=2 #15
+2026/03/12-05:11:19.403 8328 Delete type=2 #17
+2026/03/12-05:11:19.403 8328 Delete type=2 #20
+2026/03/12-05:11:19.403 8328 Delete type=2 #23
